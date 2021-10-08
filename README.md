@@ -1,2 +1,2 @@
 ## React / typescript
-## Todo List# react-typescript-todolist
+## Todo List react-typescript-todolist
